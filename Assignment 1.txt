@@ -1,0 +1,43 @@
+1. Why do computers understand only binary language?
+Ans-  It is because binary is a machine language which has 0 and 1, it means it records the data in form of 0 and 1 as electronic signal. Computer
+ is a electronic device. It becomes complex if the sentence becomes large.
+
+2.What is the full form of IDE?
+Ans-  The full form of IDE is Integrated development environment.
+
+3.What is the difference between a text editor and a code editor?
+Ans- Text editors can view or edit the text, Can't run the code.
+   But  Code editors are for editing and running the code(programming)
+
+4. What are the steps to develop software using the C language?
+ans- step 1- Download Dev/C++
+     Step 2- install Dev/C++
+     Step 3-  Create First Project
+     Step 4-  Write the programme
+     Step 5 - Save and Compile code
+     Step 6-  Run the Code
+     Step 7-  More Resources
+5. a. What is the latest version of C Language?
+Ans- C18 is the latest version of C language
+
+b. Who developed C Language?
+Ans- American Computer Scientist Dennis M.Ritchie developed C language.
+
+c.What is the difference between System and Application Software?
+Ans-
+1.	System Software maintain the system resources and give the path for application software to run.	Application software is built for specific tasks.
+2.	Low level languages are used to write the system software.	While high level languages are used to write the application software.
+3.	Its a general purpose software.	While its a specific purpose software.
+4.	Without system software, system can’t run.	While without application software system always runs.
+5.	System software runs when system is turned on and stop when system is turned off.	While application software runs as per the user’s request.
+6.	Example of system software are operating system, etc.	Example of application software are Photoshop, VLC player etc.
+7.	System Software programming is complex than application software.	Application software programming is simpler as comparison to system software.
+
+d. How to convert a number from a decimal number system to a binary number system?
+
+Ans- Write down the number.
+Divide it by 2 and note the remainder.
+Divide the quotient obtained by 2 and note the remainder.
+Repeat the same process till we get 0 as the quotient.
+Write the values of all the remainders starting from the bottom to the top.
+
